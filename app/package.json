@@ -1,0 +1,12 @@
+{
+  "name": "host-control",
+  "version": "0.0.0",
+  "main": "app.js",
+  "author": {
+    "name": "piscos"
+  },
+  "dependencies": {
+    "firebase": "6.0.2",
+    "axios": "0.18.0"
+  }
+}
